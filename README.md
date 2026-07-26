@@ -11,11 +11,15 @@ https://healthclino.es
 
 https://healthclino.com
 
+https://healthclino.eu
+
 https://www.healthclino.com/
 
 https://www.healthclino.es/
 
 https://www.healthclino.es
+
+https://www.healthclino.eu
 
 ### Our Services
 
@@ -50,4 +54,4 @@ Online Doctor Spain, Telemedicine Spain, Online GP Spain, Prescription Refill Sp
 
 ---
 
-**Official Website:** https://healthclino.es
+**Official Website:** https://healthclino.es , https://healthclino.eu
